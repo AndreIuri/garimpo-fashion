@@ -1,0 +1,160 @@
+# Node.js
+node_modules/
+
+# Visual Studio Code
+.vscode/
+
+# Next.js
+.next/
+
+# Compiled files
+out/
+dist/
+build/
+*.log
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# npm package manager
+npm-debug.log
+yarn-error.log
+
+# IDE files
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.suo
+*.suo.lock
+*.suo.bak
+
+# Compiled Python files
+*.pyc
+
+# TypeScript
+*.tsbuildinfo
+
+# Windows image file caches
+ehthumbs.db
+ehthumbs_vista.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code directories
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Dependencies
+node_modules/
+
+# Environment variables
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Next.js
+.next/
+out/
+
+# Compiled output
+/dist/
+/out/
+
+# yarn
+.yarn/
+yarn-error.log
+
+# dotenv
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# JetBrains Rider
+.idea/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.suo.lock
+*.suo.bak
+
+# Visual Studio for Mac
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.suo.lock
+*.suo.bak
+
+# Rider
+.idea/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.suo.lock
+*.suo.bak
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code directories
+.vscode/
+.idea/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
